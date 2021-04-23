@@ -31,7 +31,7 @@ line-height: 1;
 font-weight: bold;
 
 @media screen and (max-width: 650px){
-    width: 100%;
+    width: 82%;
 }
 `;
 
